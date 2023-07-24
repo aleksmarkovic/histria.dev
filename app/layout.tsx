@@ -8,11 +8,10 @@ export const metadata: Metadata = {
     default: "histria.dev",
     template: "%s | histria.dev",
   },
-  description: "Software engineer at upstash.com and founder of planetfall.io",
+  description: "Software engineer",
   openGraph: {
     title: "histria.dev",
-    description:
-      "Software engineer at upstash.com and founder of planetfall.io",
+    description: "Software engineer",
     url: "https://histria.dev",
     siteName: "histria.dev",
     images: [
