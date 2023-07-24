@@ -5,19 +5,19 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "histria.dev",
+    template: "%s | histria.dev",
   },
   description: "Software engineer at upstash.com and founder of planetfall.io",
   openGraph: {
-    title: "chronark.com",
+    title: "histria.dev",
     description:
       "Software engineer at upstash.com and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    url: "https://histria.dev",
+    siteName: "histria.dev",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://histria.dev/og.png",
         width: 1920,
         height: 1080,
       },
