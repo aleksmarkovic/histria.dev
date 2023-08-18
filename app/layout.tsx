@@ -6,19 +6,18 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "histria.dev",
+    template: "%s | histria.dev",
   },
-  description: "Software engineer at upstash.com and founder of planetfall.io",
+  description: "Histria Dev software development",
   openGraph: {
-    title: "chronark.com",
-    description:
-      "Software engineer at upstash.com and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    title: "histria.dev",
+    description: "Histria Dev software development",
+    url: "https://histria.dev",
+    siteName: "histria.dev",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://histria.dev/og.png",
         width: 1920,
         height: 1080,
       },
@@ -36,10 +35,6 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
-  },
-  twitter: {
-    title: "Chronark",
-    card: "summary_large_image",
   },
   icons: {
     shortcut: "/favicon.png",
