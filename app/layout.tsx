@@ -8,15 +8,15 @@ export const metadata: Metadata = {
     default: "histria.dev",
     template: "%s | histria.dev",
   },
-  description: "Histria Dev software development",
+  description: "Histria Dev Software Development",
   openGraph: {
     title: "histria.dev",
-    description: "Histria Dev software development",
+    description: "Histria Dev Software Development",
     url: "https://histria.dev",
     siteName: "histria.dev",
     images: [
       {
-        url: "https://histria.dev/og.png",
+        url: "https://histria.dev/logo-horizontal.svg",
         width: 1920,
         height: 1080,
       },
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/logo-mini.svg",
   },
 };
 const inter = Inter({
